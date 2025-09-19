@@ -114,10 +114,12 @@ smart-assistant-genai/
 ---
  👤 Author
 
-**ARULHOSUR**
-**DHIRAJJONNAVITHULA**
-📧 [arulhosur1609@gmail.com](mailto:amanrss954@gmail.com)
-   [saidhiraj21@gmail.com](mailto:saidhiraj21@gmail.com)
+**ARULHOSUR**   
+📧 [arulhosur1609@gmail.com](mailto:arulhosur1609@gmail.com)
 
+**DHIRAJJONNAVITHULA**
+📧 [saidhiraj21@gmail.com](mailto:saidhiraj21@gmail.com)
+
+ 
 ##  License
 MIT License 
