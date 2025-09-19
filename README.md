@@ -114,8 +114,10 @@ smart-assistant-genai/
 ---
  👤 Author
 
-**Aman Singh**   
-📧 [amanrss954@gmail.com](mailto:amanrss954@gmail.com)
+**ARULHOSUR**
+**DHIRAJJONNAVITHULA**
+📧 [arulhosur1609@gmail.com](mailto:amanrss954@gmail.com)
+   [saidhiraj21@gmail.com](mailto:saidhiraj21@gmail.com)
 
-## 🔓 License
-MIT License — free to use, modify and share.
+##  License
+MIT License 
